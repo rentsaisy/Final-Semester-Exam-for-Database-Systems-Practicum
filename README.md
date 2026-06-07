@@ -9,8 +9,7 @@
 
 A database systems practicum project developed to manage girls' boarding house data efficiently using CRUD operations. This project consists of two different implementations:
 
-Python Flask Application
-PHP Native Application
+Python Flask Application And PHP Native Application
 
 Both applications use the same MySQL database structure but are developed using different programming approaches.
 
