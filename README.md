@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="Media/rosa(owner).gif" width="400">
+  <img src="Media/rosa(owner).gif" width="220">
 </p>
 
 A database systems practicum project developed to manage girls' boarding house data efficiently using CRUD operations. This project consists of two different implementations:
